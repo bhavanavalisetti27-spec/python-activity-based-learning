@@ -7,7 +7,7 @@ Branch:-CSM4
 #python case studies
 
 
-##Case Study 1: University Scholarship Allocation
+## Case Study 1: University Scholarship Allocation
 ## Case Study 2: Progressive Electricity Billing
 ## Case Study 3: Hospital Billing and Patient Classification
 ## Case Study 4: Employee Payroll and Deduction Analysis
